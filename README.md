@@ -30,4 +30,6 @@ Media → Weekly progress and final output
 
 
 **👥 Team Members**
-[Name]
+TANAY DHAVATE
+SACHIT PATNAIK
+
