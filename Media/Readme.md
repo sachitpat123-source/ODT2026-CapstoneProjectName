@@ -7,3 +7,6 @@
 1. Capture real process (not staged content)
 2. Include both successes and failures
 3. Use captions to explain what is happening
+
+
+Most media has been submitted to the repository. Files too long have been omitted from the repository expemt major tests. All actions being performed in the media is mendtioned is repsective readmes.
