@@ -8,3 +8,6 @@ Ensure diagrams are neat and readable
 Can be hand-drawn or software-generated
 Should match actual implementation
 Justification of components is mandatory
+
+
+All required documents have been submitted and Circuit diagarm was construced manuall using paper and quilling strips and is attached.
