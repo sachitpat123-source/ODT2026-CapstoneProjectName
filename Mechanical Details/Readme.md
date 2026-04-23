@@ -6,3 +6,6 @@
 ⚠️ Guidelines
 1. Show evolution of design (not just final result)
 2. Explain why materials were chosen
+
+
+All mechnaical details have been subitted in the pdf along with the 3D print files.
